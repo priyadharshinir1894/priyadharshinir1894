@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Priyadharshini Rajaram</h1>
-<h3 align="center">Lets learn together</h3>
+<h3 align="center">Let's learn together</h3>
 
 - 🌱 I’m currently learning **Typescript, Kubernetes**
 
